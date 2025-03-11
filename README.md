@@ -10,10 +10,9 @@
 🔹 **Doing B.Tech in CSE (2022-2026)**  
 🔹 Proficient in **C, C++, Python, JavaScript, PHP**  
 🔹 **Experience in:**  
-&nbsp; • **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL  
-&nbsp; • **Cybersecurity:** Network Security, Intrusion Detection, Web Security, Linux Security  
-&nbsp; • **Other Areas:** Data Analysis, API Development, System Administration  
-🔹 **Currently Working On:** A **Packet Analyzer** for Windows  
+🔹 **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL  
+🔹 **Cybersecurity:** Network Security, Intrusion Detection, Web Security, Linux Security   
+
 🔹 **Looking to Collaborate On:** **Cybersecurity & Software Development projects**  
 
 ---
@@ -44,26 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokshadave63&show_icons=true&theme=radical&hide_border=true&count_private=true" width="50%" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mokshadave63&theme=radical&hide_border=true" width="50%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshadave63&theme=radical&hide_border=true&layout=compact" width="50%" />
-</div>
-
----
-
 ## 📬 Connect with Me  
 🔗 **GitHub:** [mokshadave63](https://github.com/mokshadave63)  
-🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
+🔗 **[LinkedIn: Moksha Dave](https://www.linkedin.com/in/moksha-dave/)**  
 📧 **Email:** mokshadave63@gmail.com  
 
 ---
 
 🔥 **“Security isn’t a product, it’s a process.”** – Bruce Schneier  
-..
-- ⚡ Fun fact: ...
--->
