@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 whoami  
 🔹 **Doing B.Tech in CSE (2022-2026)**  
 🔹 Proficient in **C, C++, Python, JavaScript, PHP**  
 🔹 **Experience in:**  
