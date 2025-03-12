@@ -10,10 +10,10 @@
 🔹 **Doing B.Tech in CSE (2022-2026)**  
 🔹 Proficient in **C, C++, Python, JavaScript, PHP**  
 🔹 **Experience in:**  
-🔹 **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL  
-🔹 **Cybersecurity:** Network Security, Intrusion Detection, Web Security, Linux Security   
+    ⭐ **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL  
+    ⭐ **Cybersecurity:** Network Security, Intrusion Detection, Web Security, Linux Security   
 
-🔹 **Looking to Collaborate On:** **Cybersecurity & Software Development projects**  
+➡️ **Looking to Collaborate On:** **Cybersecurity & Software Development projects**  
 
 ---
 
